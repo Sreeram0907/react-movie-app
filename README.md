@@ -17,20 +17,6 @@ It fetches movie data from an external API and allows users to:
 - **TMDb or similar API**  
 - **React Context API** for global state management
 
----
-## 📁 Folder Structure
-src/
-│
-├── assets/ # Images, icons, etc.
-├── components/ # Reusable components (NavBar, MovieCard)
-├── contexts/ # MovieContext (Global state)
-├── css/ # Component-specific CSS files
-├── pages/ # Home and Favorites pages
-├── services/ # API requests logic
-├── App.jsx # Main App component
-└── main.jsx # Entry point
----
-
 ## 🚀 How to Run Locally
 
 1. Clone the repository  
@@ -43,3 +29,4 @@ cd react-movie-app
 npm install
 npm run dev
 📸 Screenshots
+![App Screenshot](./src/assets/App-preview.png)
