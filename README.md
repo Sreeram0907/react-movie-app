@@ -32,5 +32,5 @@ npm install
 npm run dev
 ```
 
-📸 Screenshot
+## 📸 Screenshot
 ![App Screenshot](./src/assets/App-preview.png)
