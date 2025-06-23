@@ -30,8 +30,7 @@ git clone https://github.com/your-username/react-movie-app.git
 cd react-movie-app
 npm install
 npm run dev
+```
 
 📸 Screenshot
 ![App Screenshot](./src/assets/App-preview.png)
-
-🌐 Live Demo
