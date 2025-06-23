@@ -33,4 +33,5 @@ npm run dev
 ```
 
 ## 📸 Screenshot
+
 ![App Screenshot](./src/assets/App-preview.png)
